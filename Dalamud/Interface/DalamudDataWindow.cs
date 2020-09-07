@@ -28,7 +28,7 @@ namespace Dalamud.Interface
 
         private bool drawActors = false;
         private float maxActorDrawDistance = 20;
-
+        
         public DalamudDataWindow(Dalamud dalamud) {
             this.dalamud = dalamud;
 
